@@ -45,4 +45,30 @@ table, and pay amount and pay date from Tran_Payment.
 
 
 
+### Analysis Reports
+
+
+#### Sales fact table
+
+This graph shows the total number of course sales count with the aggregated total sales
+in dollar of each region. This data can be used to find the potential regions or branches that
+bring the most profit to the gym and fitness center. The gym would be able to promote and
+invest more money in the regions that is highly profitable. The gym can also create promotions
+to attract more customers to the regions that are less profitable.
+
+<img src="https://github.com/ehsanSh21/DataWarehousing-with-SSIS/blob/master/RegionAnalysis.png" alt="Database Diagram" width="700" height="400">
+
+
+
+This graph shows the total number of course sales with the aggregated total sales in
+dollar according to each type of customer membership. This data can be used to analyze which
+type of customer membership bring in the most profit, so the gym would be able to create a new
+attracting promotion to attract customers to become that type of membership.
+
+<img src="https://github.com/ehsanSh21/DataWarehousing-with-SSIS/blob/master/MembershipAnalysis.png" alt="Database Diagram" width="700" height="400">
+
+
+
+
+
 
